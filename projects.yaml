@@ -9,11 +9,17 @@ categories:
   - category: "written-in-rust"
     title: "Rust"
     subtitle: "Best-of lists about Task Runners written in Rust."
+  - category: "written-in-python"
+    title: "Python"
+    subtitle: "Best-of lists about Task Runners written in Python."
 
 labels:
   - label: "targets-general"
     # TODO @hasansezertasan: Add a proper icon
     description: "Best-of Task Runners targeting all kinds of projects."
+  - label: "targets-python"
+    image: "https://www.python.org/static/favicon.ico"
+    description: "Best-of Task Runners targeting Python projects."
 
 projects:
   - name: mise
@@ -24,3 +30,7 @@ projects:
     github_id: joerdav/xc
     labels: ["targets-general"]
     category: "written-in-go"
+  - name: poethepoet
+    github_id: nat-n/poethepoet
+    labels: ["targets-python"]
+    category: "written-in-python"
