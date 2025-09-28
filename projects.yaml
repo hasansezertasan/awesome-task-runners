@@ -34,3 +34,7 @@ projects:
     github_id: nat-n/poethepoet
     labels: ["targets-python"]
     category: "written-in-python"
+  - name: taskipy
+    github_id: taskipy/taskipy
+    labels: ["targets-python"]
+    category: "written-in-python"
