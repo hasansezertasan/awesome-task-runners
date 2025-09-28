@@ -3,6 +3,9 @@ configuration:
   markdown_footer_file: "config/footer.md"
 
 categories:
+  - category: "written-in-go"
+    title: "Go"
+    subtitle: "Best-of lists about Task Runners written in Go."
   - category: "written-in-rust"
     title: "Rust"
     subtitle: "Best-of lists about Task Runners written in Rust."
@@ -17,3 +20,7 @@ projects:
     github_id: jdx/mise
     labels: ["targets-general"]
     category: "written-in-rust"
+  - name: xc
+    github_id: joerdav/xc
+    labels: ["targets-general"]
+    category: "written-in-go"
