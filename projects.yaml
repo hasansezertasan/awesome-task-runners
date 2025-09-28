@@ -34,6 +34,10 @@ projects:
     github_id: joerdav/xc
     labels: ["targets-general"]
     category: "written-in-go"
+  - name: task
+    github_id: go-task/task
+    labels: ["targets-general"]
+    category: "written-in-go"
   - name: poethepoet
     github_id: nat-n/poethepoet
     labels: ["targets-python"]
