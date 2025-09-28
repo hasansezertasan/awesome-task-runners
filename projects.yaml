@@ -15,7 +15,7 @@ categories:
 
 labels:
   - label: "targets-general"
-    # TODO @hasansezertasan: Add a proper icon
+    image: "https://images.icon-icons.com/510/PNG/512/heart_icon-icons.com_50374.png"
     description: "Best-of Task Runners targeting all kinds of projects."
   - label: "targets-python"
     image: "https://www.python.org/static/favicon.ico"
