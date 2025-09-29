@@ -30,6 +30,10 @@ projects:
     github_id: casey/just
     labels: ["targets-general"]
     category: "written-in-rust"
+  - name: mask
+    github_id: jacobdeichert/mask
+    labels: ["targets-general"]
+    category: "written-in-rust"
   - name: xc
     github_id: joerdav/xc
     labels: ["targets-general"]
