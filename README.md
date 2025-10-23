@@ -53,13 +53,13 @@ _Best-of lists about Task Runners written in Go._
 
 <details><summary><b><a href="https://github.com/go-task/task">task</a></b> (🥇35 ·  ⭐ 14K) - A task runner / simpler Make alternative written in Go. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://images.icon-icons.com/510/PNG/512/heart_icon-icons.com_50374.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/go-task/task) (👨‍💻 220 · 🔀 730 · 📥 24M · 📦 440 · 📋 1.2K - 29% open · ⏱️ 12.10.2025):
+- [GitHub](https://github.com/go-task/task) (👨‍💻 220 · 🔀 740 · 📥 24M · 📦 440 · 📋 1.2K - 30% open · ⏱️ 17.10.2025):
 
 	```
 	git clone https://github.com/go-task/task
 	```
 </details>
-<details><summary><b><a href="https://github.com/joerdav/xc">xc</a></b> (🥉19 ·  ⭐ 1.3K · 📈) - Markdown defined task runner. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://images.icon-icons.com/510/PNG/512/heart_icon-icons.com_50374.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/joerdav/xc">xc</a></b> (🥉19 ·  ⭐ 1.3K) - Markdown defined task runner. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://images.icon-icons.com/510/PNG/512/heart_icon-icons.com_50374.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/joerdav/xc) (👨‍💻 15 · 🔀 32 · 📥 62K · 📋 52 - 28% open · ⏱️ 10.07.2025):
 
@@ -77,7 +77,7 @@ _Best-of lists about Task Runners written in Rust._
 
 <details><summary><b><a href="https://github.com/jdx/mise">mise</a></b> (🥉30 ·  ⭐ 21K) - dev tools, env vars, task runner. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://images.icon-icons.com/510/PNG/512/heart_icon-icons.com_50374.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/jdx/mise) (👨‍💻 340 · 🔀 670 · 📥 650K · ⏱️ 16.10.2025):
+- [GitHub](https://github.com/jdx/mise) (👨‍💻 340 · 🔀 690 · 📥 770K · ⏱️ 23.10.2025):
 
 	```
 	git clone https://github.com/jdx/mise
@@ -111,9 +111,9 @@ _Best-of lists about Task Runners written in Python._
 	git clone https://github.com/nat-n/poethepoet
 	```
 </details>
-<details><summary><b><a href="https://github.com/taskipy/taskipy">taskipy</a></b> (🥉19 ·  ⭐ 640 · 💤) - the complementary task runner for python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/taskipy/taskipy">taskipy</a></b> (🥉19 ·  ⭐ 650 · 💤) - the complementary task runner for python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/taskipy/taskipy) (👨‍💻 14 · 🔀 26 · 📦 7.8K · 📋 37 - 24% open · ⏱️ 26.11.2024):
+- [GitHub](https://github.com/taskipy/taskipy) (👨‍💻 14 · 🔀 27 · 📦 7.8K · 📋 37 - 24% open · ⏱️ 26.11.2024):
 
 	```
 	git clone https://github.com/taskipy/taskipy
