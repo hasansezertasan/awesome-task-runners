@@ -20,6 +20,9 @@ labels:
   - label: "targets-python"
     image: "https://www.python.org/static/favicon.ico"
     description: "Best-of Task Runners targeting Python projects."
+  - label: "targets-rust"
+    image: "https://www.google.com/s2/favicons?sz=64&domain=https://www.rust-lang.org"
+    description: "Best-of Task Runners targeting Rust projects."
 
 projects:
   - name: mise
@@ -50,3 +53,7 @@ projects:
     github_id: taskipy/taskipy
     labels: ["targets-python"]
     category: "written-in-python"
+  - name: cargo-make
+    github_id: sagiegurari/cargo-make
+    labels: ["targets-rust"]
+    category: "written-in-rust"
