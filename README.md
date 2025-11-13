@@ -54,15 +54,15 @@ _Best-of lists about Task Runners written in Go._
 
 <details><summary><b><a href="https://github.com/go-task/task">task</a></b> (🥇35 ·  ⭐ 14K) - A task runner / simpler Make alternative written in Go. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://images.icon-icons.com/510/PNG/512/heart_icon-icons.com_50374.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/go-task/task) (👨‍💻 220 · 🔀 740 · 📥 25M · 📦 450 · 📋 1.2K - 30% open · ⏱️ 04.11.2025):
+- [GitHub](https://github.com/go-task/task) (👨‍💻 220 · 🔀 740 · 📥 25M · 📦 450 · 📋 1.2K - 29% open · ⏱️ 13.11.2025):
 
 	```
 	git clone https://github.com/go-task/task
 	```
 </details>
-<details><summary><b><a href="https://github.com/joerdav/xc">xc</a></b> (🥉20 ·  ⭐ 1.3K · 📈) - Markdown defined task runner. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://images.icon-icons.com/510/PNG/512/heart_icon-icons.com_50374.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/joerdav/xc">xc</a></b> (🥉20 ·  ⭐ 1.3K) - Markdown defined task runner. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://images.icon-icons.com/510/PNG/512/heart_icon-icons.com_50374.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/joerdav/xc) (👨‍💻 16 · 🔀 32 · 📥 63K · 📋 53 - 28% open · ⏱️ 06.11.2025):
+- [GitHub](https://github.com/joerdav/xc) (👨‍💻 16 · 🔀 32 · 📥 64K · 📋 53 - 28% open · ⏱️ 12.11.2025):
 
 	```
 	git clone https://github.com/joerdav/xc
@@ -78,7 +78,7 @@ _Best-of lists about Task Runners written in Rust._
 
 <details><summary><b><a href="https://github.com/jdx/mise">mise</a></b> (🥈30 ·  ⭐ 21K) - dev tools, env vars, task runner. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://images.icon-icons.com/510/PNG/512/heart_icon-icons.com_50374.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/jdx/mise) (👨‍💻 360 · 🔀 710 · 📥 930K · ⏱️ 06.11.2025):
+- [GitHub](https://github.com/jdx/mise) (👨‍💻 360 · 🔀 720 · 📥 1M · ⏱️ 13.11.2025):
 
 	```
 	git clone https://github.com/jdx/mise
@@ -102,7 +102,7 @@ _Best-of lists about Task Runners written in Rust._
 </details>
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/casey/just">just</a></b> (🥇33 ·  ⭐ 28K) - Just a command runner. <code><a href="https://tldrlegal.com/search?q=CC0-1.0">❗️CC0-1.0</a></code> <code><img src="https://images.icon-icons.com/510/PNG/512/heart_icon-icons.com_50374.png" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/casey/just">just</a></b> (🥇33 ·  ⭐ 29K) - Just a command runner. <code><a href="https://tldrlegal.com/search?q=CC0-1.0">❗️CC0-1.0</a></code> <code><img src="https://images.icon-icons.com/510/PNG/512/heart_icon-icons.com_50374.png" style="display:inline;" width="13" height="13"></code>
 </details>
 <br>
 
@@ -112,9 +112,9 @@ _Best-of lists about Task Runners written in Rust._
 
 _Best-of lists about Task Runners written in Python._
 
-<details><summary><b><a href="https://github.com/nat-n/poethepoet">poethepoet</a></b> (🥇23 ·  ⭐ 1.9K) - A task runner that works well with poetry or uv. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/nat-n/poethepoet">poethepoet</a></b> (🥇24 ·  ⭐ 1.9K · 📈) - A task runner that works well with poetry or uv. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/nat-n/poethepoet) (👨‍💻 39 · 🔀 71 · 📥 630 · 📦 6.1K · 📋 140 - 11% open · ⏱️ 11.08.2025):
+- [GitHub](https://github.com/nat-n/poethepoet) (👨‍💻 39 · 🔀 72 · 📥 630 · 📦 6.1K · 📋 140 - 11% open · ⏱️ 11.08.2025):
 
 	```
 	git clone https://github.com/nat-n/poethepoet
