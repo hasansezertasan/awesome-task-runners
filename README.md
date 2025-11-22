@@ -15,7 +15,7 @@
     <a href="https://github.com/hasansezertasan/awesome-task-runners/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/hasansezertasan/awesome-task-runners?color=green&label=updated"></a>
 </p>
 
-This curated list contains 8 awesome open-source projects with a total of 72K stars grouped into 3 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/awesome-task-runners/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/awesome-task-runners/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/awesome-task-runners/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 8 awesome open-source projects with a total of 73K stars grouped into 3 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/awesome-task-runners/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/awesome-task-runners/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/awesome-task-runners/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -52,17 +52,17 @@ This curated list contains 8 awesome open-source projects with a total of 72K st
 
 _Best-of lists about Task Runners written in Go._
 
-<details><summary><b><a href="https://github.com/go-task/task">task</a></b> (🥇35 ·  ⭐ 14K) - A task runner / simpler Make alternative written in Go. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://images.icon-icons.com/510/PNG/512/heart_icon-icons.com_50374.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/go-task/task">task</a></b> (🥇31 ·  ⭐ 14K · 📉) - A task runner / simpler Make alternative written in Go. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://images.icon-icons.com/510/PNG/512/heart_icon-icons.com_50374.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/go-task/task) (👨‍💻 220 · 🔀 740 · 📥 25M · 📦 450 · 📋 1.2K - 29% open · ⏱️ 13.11.2025):
+- [GitHub](https://github.com/go-task/task) (👨‍💻 230 · 🔀 750 · 📥 25M · 📋 1.2K - 29% open · ⏱️ 19.11.2025):
 
 	```
 	git clone https://github.com/go-task/task
 	```
 </details>
-<details><summary><b><a href="https://github.com/joerdav/xc">xc</a></b> (🥉20 ·  ⭐ 1.3K) - Markdown defined task runner. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://images.icon-icons.com/510/PNG/512/heart_icon-icons.com_50374.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/joerdav/xc">xc</a></b> (🥉20 ·  ⭐ 1.4K) - Markdown defined task runner. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://images.icon-icons.com/510/PNG/512/heart_icon-icons.com_50374.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/joerdav/xc) (👨‍💻 16 · 🔀 32 · 📥 64K · 📋 53 - 28% open · ⏱️ 12.11.2025):
+- [GitHub](https://github.com/joerdav/xc) (👨‍💻 16 · 🔀 32 · 📥 65K · 📋 54 - 29% open · ⏱️ 12.11.2025):
 
 	```
 	git clone https://github.com/joerdav/xc
@@ -76,9 +76,9 @@ _Best-of lists about Task Runners written in Go._
 
 _Best-of lists about Task Runners written in Rust._
 
-<details><summary><b><a href="https://github.com/jdx/mise">mise</a></b> (🥈30 ·  ⭐ 21K) - dev tools, env vars, task runner. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://images.icon-icons.com/510/PNG/512/heart_icon-icons.com_50374.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/jdx/mise">mise</a></b> (🥇30 ·  ⭐ 22K) - dev tools, env vars, task runner. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://images.icon-icons.com/510/PNG/512/heart_icon-icons.com_50374.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/jdx/mise) (👨‍💻 360 · 🔀 720 · 📥 1M · ⏱️ 13.11.2025):
+- [GitHub](https://github.com/jdx/mise) (👨‍💻 370 · 🔀 740 · 📥 1.1M · ⏱️ 20.11.2025):
 
 	```
 	git clone https://github.com/jdx/mise
@@ -86,7 +86,7 @@ _Best-of lists about Task Runners written in Rust._
 </details>
 <details><summary><b><a href="https://github.com/sagiegurari/cargo-make">cargo-make</a></b> (🥉27 ·  ⭐ 2.9K) - Rust task runner and build tool. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.rust-lang.org" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/sagiegurari/cargo-make) (👨‍💻 79 · 🔀 140 · 📥 3.2M · 📦 140 · 📋 590 - 9% open · ⏱️ 29.10.2025):
+- [GitHub](https://github.com/sagiegurari/cargo-make) (👨‍💻 79 · 🔀 140 · 📥 3.3M · 📦 140 · 📋 590 - 9% open · ⏱️ 29.10.2025):
 
 	```
 	git clone https://github.com/sagiegurari/cargo-make
@@ -102,7 +102,7 @@ _Best-of lists about Task Runners written in Rust._
 </details>
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/casey/just">just</a></b> (🥇33 ·  ⭐ 29K) - Just a command runner. <code><a href="https://tldrlegal.com/search?q=CC0-1.0">❗️CC0-1.0</a></code> <code><img src="https://images.icon-icons.com/510/PNG/512/heart_icon-icons.com_50374.png" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/casey/just">just</a></b> (🥈29 ·  ⭐ 29K · 📉) - Just a command runner. <code><a href="https://tldrlegal.com/search?q=CC0-1.0">❗️CC0-1.0</a></code> <code><img src="https://images.icon-icons.com/510/PNG/512/heart_icon-icons.com_50374.png" style="display:inline;" width="13" height="13"></code>
 </details>
 <br>
 
@@ -112,7 +112,7 @@ _Best-of lists about Task Runners written in Rust._
 
 _Best-of lists about Task Runners written in Python._
 
-<details><summary><b><a href="https://github.com/nat-n/poethepoet">poethepoet</a></b> (🥇24 ·  ⭐ 1.9K · 📈) - A task runner that works well with poetry or uv. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/nat-n/poethepoet">poethepoet</a></b> (🥇24 ·  ⭐ 1.9K) - A task runner that works well with poetry or uv. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/nat-n/poethepoet) (👨‍💻 39 · 🔀 72 · 📥 630 · 📦 6.1K · 📋 140 - 11% open · ⏱️ 11.08.2025):
 
@@ -120,7 +120,7 @@ _Best-of lists about Task Runners written in Python._
 	git clone https://github.com/nat-n/poethepoet
 	```
 </details>
-<details><summary><b><a href="https://github.com/taskipy/taskipy">taskipy</a></b> (🥉19 ·  ⭐ 650 · 💤) - the complementary task runner for python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/taskipy/taskipy">taskipy</a></b> (🥉19 ·  ⭐ 660 · 💤) - the complementary task runner for python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/taskipy/taskipy) (👨‍💻 14 · 🔀 27 · 📦 7.8K · 📋 38 - 26% open · ⏱️ 26.11.2024):
 
