@@ -15,7 +15,7 @@
     <a href="https://github.com/hasansezertasan/awesome-task-runners/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/hasansezertasan/awesome-task-runners?color=green&label=updated"></a>
 </p>
 
-This curated list contains 8 awesome open-source projects with a total of 74K stars grouped into 3 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/awesome-task-runners/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/awesome-task-runners/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/awesome-task-runners/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 8 awesome open-source projects with a total of 75K stars grouped into 3 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/awesome-task-runners/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/awesome-task-runners/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/awesome-task-runners/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -54,7 +54,7 @@ _Best-of lists about Task Runners written in Go._
 
 <details><summary><b><a href="https://github.com/go-task/task">task</a></b> (🥇35 ·  ⭐ 14K) - A task runner / simpler Make alternative written in Go. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://images.icon-icons.com/510/PNG/512/heart_icon-icons.com_50374.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/go-task/task) (👨‍💻 230 · 🔀 750 · 📥 26M · 📦 470 · 📋 1.2K - 15% open · ⏱️ 18.12.2025):
+- [GitHub](https://github.com/go-task/task) (👨‍💻 230 · 🔀 760 · 📥 25M · 📦 480 · 📋 1.2K - 16% open · ⏱️ 24.12.2025):
 
 	```
 	git clone https://github.com/go-task/task
@@ -62,7 +62,7 @@ _Best-of lists about Task Runners written in Go._
 </details>
 <details><summary><b><a href="https://github.com/joerdav/xc">xc</a></b> (🥉20 ·  ⭐ 1.4K) - Markdown defined task runner. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://images.icon-icons.com/510/PNG/512/heart_icon-icons.com_50374.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/joerdav/xc) (👨‍💻 16 · 🔀 32 · 📥 68K · 📋 55 - 30% open · ⏱️ 12.11.2025):
+- [GitHub](https://github.com/joerdav/xc) (👨‍💻 16 · 🔀 32 · 📥 69K · 📋 55 - 30% open · ⏱️ 12.11.2025):
 
 	```
 	git clone https://github.com/joerdav/xc
@@ -78,7 +78,7 @@ _Best-of lists about Task Runners written in Rust._
 
 <details><summary><b><a href="https://github.com/jdx/mise">mise</a></b> (🥈30 ·  ⭐ 22K) - dev tools, env vars, task runner. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://images.icon-icons.com/510/PNG/512/heart_icon-icons.com_50374.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/jdx/mise) (👨‍💻 390 · 🔀 770 · 📥 1.2M · ⏱️ 18.12.2025):
+- [GitHub](https://github.com/jdx/mise) (👨‍💻 390 · 🔀 770 · 📥 1.3M · ⏱️ 19.12.2025):
 
 	```
 	git clone https://github.com/jdx/mise
@@ -114,7 +114,7 @@ _Best-of lists about Task Runners written in Python._
 
 <details><summary><b><a href="https://github.com/nat-n/poethepoet">poethepoet</a></b> (🥇24 ·  ⭐ 1.9K) - A task runner that works well with poetry or uv. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/nat-n/poethepoet) (👨‍💻 39 · 🔀 71 · 📥 640 · 📦 6.1K · 📋 150 - 12% open · ⏱️ 24.11.2025):
+- [GitHub](https://github.com/nat-n/poethepoet) (👨‍💻 40 · 🔀 71 · 📥 640 · 📦 6.1K · 📋 150 - 12% open · ⏱️ 25.12.2025):
 
 	```
 	git clone https://github.com/nat-n/poethepoet
