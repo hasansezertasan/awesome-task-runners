@@ -54,7 +54,7 @@ _Best-of lists about Task Runners written in Go._
 
 <details><summary><b><a href="https://github.com/go-task/task">task</a></b> (🥇36 ·  ⭐ 16K) - A fast, cross-platform build tool inspired by Make, designed for modern.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://images.icon-icons.com/510/PNG/512/heart_icon-icons.com_50374.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/go-task/task) (👨‍💻 240 · 🔀 830 · 📥 31M · 📦 610 · 📋 1.3K - 9% open · ⏱️ 31.05.2026):
+- [GitHub](https://github.com/go-task/task) (👨‍💻 250 · 🔀 830 · 📥 32M · 📦 620 · 📋 1.3K - 9% open · ⏱️ 07.06.2026):
 
 	```
 	git clone https://github.com/go-task/task
@@ -62,7 +62,7 @@ _Best-of lists about Task Runners written in Go._
 </details>
 <details><summary><b><a href="https://github.com/joerdav/xc">xc</a></b> (🥉19 ·  ⭐ 1.4K) - Markdown defined task runner. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://images.icon-icons.com/510/PNG/512/heart_icon-icons.com_50374.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/joerdav/xc) (👨‍💻 16 · 🔀 33 · 📥 90K · 📋 63 - 30% open · ⏱️ 15.05.2026):
+- [GitHub](https://github.com/joerdav/xc) (👨‍💻 16 · 🔀 33 · 📥 91K · 📋 63 - 30% open · ⏱️ 15.05.2026):
 
 	```
 	git clone https://github.com/joerdav/xc
@@ -76,9 +76,9 @@ _Best-of lists about Task Runners written in Go._
 
 _Best-of lists about Task Runners written in Rust._
 
-<details><summary><b><a href="https://github.com/jdx/mise">mise</a></b> (🥈33 ·  ⭐ 29K · 📈) - dev tools, env vars, task runner. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://images.icon-icons.com/510/PNG/512/heart_icon-icons.com_50374.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/jdx/mise">mise</a></b> (🥈33 ·  ⭐ 29K) - dev tools, env vars, task runner. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://images.icon-icons.com/510/PNG/512/heart_icon-icons.com_50374.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/jdx/mise) (👨‍💻 590 · 🔀 1.2K · 📥 1.4M · 📦 9 · ⏱️ 04.06.2026):
+- [GitHub](https://github.com/jdx/mise) (👨‍💻 600 · 🔀 1.2K · 📥 1.7M · 📦 9 · ⏱️ 11.06.2026):
 
 	```
 	git clone https://github.com/jdx/mise
@@ -86,7 +86,7 @@ _Best-of lists about Task Runners written in Rust._
 </details>
 <details><summary><b><a href="https://github.com/sagiegurari/cargo-make">cargo-make</a></b> (🥉25 ·  ⭐ 2.9K · 💤) - Rust task runner and build tool. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.rust-lang.org" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/sagiegurari/cargo-make) (👨‍💻 79 · 🔀 140 · 📥 4.4M · 📦 140 · 📋 590 - 10% open · ⏱️ 29.10.2025):
+- [GitHub](https://github.com/sagiegurari/cargo-make) (👨‍💻 79 · 🔀 140 · 📥 4.5M · 📦 140 · 📋 590 - 10% open · ⏱️ 29.10.2025):
 
 	```
 	git clone https://github.com/sagiegurari/cargo-make
@@ -114,7 +114,7 @@ _Best-of lists about Task Runners written in Python._
 
 <details><summary><b><a href="https://github.com/nat-n/poethepoet">poethepoet</a></b> (🥇25 ·  ⭐ 2K) - A task runner that works well with poetry or uv. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/nat-n/poethepoet) (👨‍💻 46 · 🔀 78 · 📥 790 · 📦 7.1K · 📋 160 - 9% open · ⏱️ 14.05.2026):
+- [GitHub](https://github.com/nat-n/poethepoet) (👨‍💻 46 · 🔀 78 · 📥 850 · 📦 7.1K · 📋 160 - 8% open · ⏱️ 14.05.2026):
 
 	```
 	git clone https://github.com/nat-n/poethepoet
