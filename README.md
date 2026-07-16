@@ -10,19 +10,19 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-8-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-7-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/hasansezertasan/awesome-task-runners/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/hasansezertasan/awesome-task-runners?color=green&label=updated"></a>
 </p>
 
-This curated list contains 8 awesome open-source projects with a total of 90K stars grouped into 3 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/awesome-task-runners/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/awesome-task-runners/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/awesome-task-runners/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 7 awesome open-source projects with a total of 59K stars grouped into 3 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/awesome-task-runners/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/awesome-task-runners/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/awesome-task-runners/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
 
 - [Go](#go) _2 projects_
-- [Rust](#rust) _4 projects_
+- [Rust](#rust) _3 projects_
 - [Python](#python) _2 projects_
 
 ## Explanation
@@ -54,15 +54,15 @@ _Best-of lists about Task Runners written in Go._
 
 <details><summary><b><a href="https://github.com/go-task/task">task</a></b> (🥇36 ·  ⭐ 16K) - A fast, cross-platform build tool inspired by Make, designed for modern.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://images.icon-icons.com/510/PNG/512/heart_icon-icons.com_50374.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/go-task/task) (👨‍💻 260 · 🔀 840 · 📥 34M · 📦 650 · 📋 1.3K - 9% open · ⏱️ 03.07.2026):
+- [GitHub](https://github.com/go-task/task) (👨‍💻 260 · 🔀 860 · 📥 35M · 📦 660 · 📋 1.3K - 9% open · ⏱️ 14.07.2026):
 
 	```
 	git clone https://github.com/go-task/task
 	```
 </details>
-<details><summary><b><a href="https://github.com/joerdav/xc">xc</a></b> (🥉19 ·  ⭐ 1.4K · 📈) - Markdown defined task runner. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://images.icon-icons.com/510/PNG/512/heart_icon-icons.com_50374.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/joerdav/xc">xc</a></b> (🥉19 ·  ⭐ 1.4K) - Markdown defined task runner. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://images.icon-icons.com/510/PNG/512/heart_icon-icons.com_50374.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/joerdav/xc) (👨‍💻 17 · 🔀 34 · 📥 93K · 📋 63 - 25% open · ⏱️ 03.07.2026):
+- [GitHub](https://github.com/joerdav/xc) (👨‍💻 17 · 🔀 34 · 📥 93K · 📋 63 - 22% open · ⏱️ 03.07.2026):
 
 	```
 	git clone https://github.com/joerdav/xc
@@ -76,17 +76,9 @@ _Best-of lists about Task Runners written in Go._
 
 _Best-of lists about Task Runners written in Rust._
 
-<details><summary><b><a href="https://github.com/jdx/mise">mise</a></b> (🥈34 ·  ⭐ 31K · 📈) - dev tools, env vars, task runner. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://images.icon-icons.com/510/PNG/512/heart_icon-icons.com_50374.png" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/jdx/mise) (👨‍💻 630 · 🔀 1.3K · 📥 1.9M · 📦 10 · ⏱️ 09.07.2026):
-
-	```
-	git clone https://github.com/jdx/mise
-	```
-</details>
 <details><summary><b><a href="https://github.com/sagiegurari/cargo-make">cargo-make</a></b> (🥉25 ·  ⭐ 2.9K · 💤) - Rust task runner and build tool. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.rust-lang.org" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/sagiegurari/cargo-make) (👨‍💻 79 · 🔀 150 · 📥 4.6M · 📦 140 · 📋 590 - 10% open · ⏱️ 29.10.2025):
+- [GitHub](https://github.com/sagiegurari/cargo-make) (👨‍💻 79 · 🔀 150 · 📥 4.7M · 📦 140 · 📋 600 - 10% open · ⏱️ 29.10.2025):
 
 	```
 	git clone https://github.com/sagiegurari/cargo-make
@@ -114,7 +106,7 @@ _Best-of lists about Task Runners written in Python._
 
 <details><summary><b><a href="https://github.com/nat-n/poethepoet">poethepoet</a></b> (🥇26 ·  ⭐ 2K) - A task runner that works well with poetry or uv. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/nat-n/poethepoet) (👨‍💻 46 · 🔀 78 · 📥 880 · 📦 7.2K · 📋 160 - 6% open · ⏱️ 05.07.2026):
+- [GitHub](https://github.com/nat-n/poethepoet) (👨‍💻 46 · 🔀 79 · 📥 890 · 📦 7.3K · 📋 160 - 6% open · ⏱️ 05.07.2026):
 
 	```
 	git clone https://github.com/nat-n/poethepoet
