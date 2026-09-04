@@ -1,0 +1,9 @@
+,name,github_id,labels,category,homepage,dependent_project_count,github_dependent_project_count,contributor_count,description,projectrank,show,projectrank_placing
+0,poethepoet,nat-n/poethepoet,['targets-python'],written-in-python,{},7478.0,7478.0,46,,7,False,1.0
+1,just,casey/just,['targets-general'],written-in-rust,{},272.0,272.0,226,,6,False,1.0
+2,task,go-task/task,['targets-general'],written-in-go,{},714.0,714.0,267,,6,False,1.0
+3,taskipy,taskipy/taskipy,['targets-python'],written-in-python,{},8212.0,8212.0,14,,6,False,3.0
+4,mise,jdx/mise,['targets-general'],written-in-rust,{},11.0,11.0,694,,4,False,2.0
+5,cargo-make,sagiegurari/cargo-make,['targets-rust'],written-in-rust,{},142.0,142.0,79,,4,False,2.0
+6,mask,jacobdeichert/mask,['targets-general'],written-in-rust,{},41.0,41.0,17,,2,False,3.0
+7,xc,joerdav/xc,['targets-general'],written-in-go,{},,,17,,0,False,
